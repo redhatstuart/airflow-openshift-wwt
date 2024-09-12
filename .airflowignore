@@ -1,2 +1,3 @@
 # ignore the symlinked directory
+# airflow
 my-dags.git
